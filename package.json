@@ -1,0 +1,36 @@
+{
+  "name": "straight",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.9.0",
+    "element-plus": "^1.0.1-beta.27",
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1",
+    "papaparse": "^5.3.0",
+    "qs": "^6.9.6",
+    "regenerator-runtime": "^0.13.7",
+    "vue": "^3.0.6",
+    "vue-router": "^4.0.4",
+    "vuex": "^4.0.0-rc.2",
+    "xlsx": "^0.16.7"
+  },
+  "devDependencies": {
+    "@vue/babel-plugin-jsx": "^1.0.3",
+    "@vue/cli-plugin-babel": "~5.0.0-alpha.0",
+    "@vue/cli-plugin-router": "~5.0.0-alpha.0",
+    "@vue/cli-plugin-vuex": "~5.0.0-alpha.0",
+    "@vue/cli-service": "~5.0.0-alpha.0",
+    "@vue/compiler-sfc": "^3.0.6",
+    "babel-plugin-on-demand-import": "^1.1.1",
+    "compression-webpack-plugin": "^7.1.2",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.0",
+    "webpack-bundle-analyzer": "^4.4.0"
+  }
+}
